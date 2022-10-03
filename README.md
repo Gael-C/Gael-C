@@ -4,14 +4,13 @@
 **Gael-C/Gael-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on nothin, I'm started to learn with O'clock 
-- 🌱 I’m currently learning to use my virtual machine and to use git
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything you want, i would love to help you
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working at  **[Macompta.fr](https://macompta.fr)and I'm back to school with **[O'Clock](https://Oclock.io)** and the jellyfish 
+- 🌱 I’m currently learning to use my virtual machine and to use git
+- 🤔 I’m looking for help with nothing for the moment
+- 💬 Ask me about anything you want, i would love to help you
+- ⚡ Fun fact: I'm playing rugby, i cook a lil bit and i'm a Dad of two children.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
