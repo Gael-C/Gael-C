@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working at  **[Macompta.fr](https://macompta.fr)and I'm back to school with **[O'Clock](https://Oclock.io)** and the jellyfish 
+- 🔭 I’m currently working at  ** [Macompta.fr](https://macompta.fr)and I'm back to school with [O'Clock](https://Oclock.io) ** and the jellyfish 
 - 🌱 I’m currently learning to use my virtual machine and to use git
 - 🤔 I’m looking for help with nothing for the moment
 - 💬 Ask me about anything you want, i would love to help you
